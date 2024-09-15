@@ -21,7 +21,7 @@ The RealTime Tracking App provides real-time location tracking using geolocation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/realtime-tracking-app.git
+   git clone https://github.com/Zubair7102/RealTime-Tracking-App
    ```
 2. Install the dependencies:
    ```bash
