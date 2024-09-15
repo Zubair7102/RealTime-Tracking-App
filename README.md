@@ -1,5 +1,5 @@
 
-# RealTime Tracking App
+# RealTime Tracking App 🗺️📍
 
 ## Description
 The RealTime Tracking App provides real-time location tracking using geolocation data. The application uses **Socket.io** for sending the user's latitude and longitude from the frontend to the backend. The backend processes the location data and updates it on the frontend, where it is displayed on a **Leaflet map**. The app supports high-accuracy geolocation and marks pinpoint locations with interactive markers on the map.
@@ -11,7 +11,7 @@ The RealTime Tracking App provides real-time location tracking using geolocation
 - **High-Accuracy Tracking**: Ensures precise location tracking using geolocation with high accuracy enabled.
 - **Error Handling**: Includes robust error handling to manage geolocation access issues and other potential errors.
 
-## Tech Stack
+## Tech Stack 
 - **Frontend**: HTML, CSS, Leaflet.js, ejs
 - **Backend**: Node.js, Express.js, Socket.io
 - **Geolocation**: Browser’s native Geolocation API
